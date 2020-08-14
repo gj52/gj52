@@ -28,6 +28,8 @@ I'm an old retired senior IT guy .. keeping my brain working
   
 will add other later, if i rember it ;-)
 
+![](cap.jph)
+
 <!--
 **gj52/gj52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
