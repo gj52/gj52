@@ -7,11 +7,11 @@ I'm an old retired senior IT guy .. keeping my brain working
   - always self learning
   
 - programming startet around 1975
-  - my first book from 1953 about Algol 
-  - PL/1 on IBM 370 clone 
-  - Fortran IV to 77
+  - my first book from 1963 about Algol 
+  - PL/1 on IBM 370 
+  - Fortran IV to 77 on PDP and IBM
   - C, C++ today C#
-  - Pascal and Modula
+  - Pascal on PC and VMS
   - Cobol (had to give some teaching lessons)
   - Java, don't like it
   - VB, project requirement
@@ -26,7 +26,11 @@ I'm an old retired senior IT guy .. keeping my brain working
 - last 15 years
   CISO for an GOV Agency in Germany
   
-will add other later, if i rember it ;-)
+- 🔭 I’m currently working ...
+  - Unity to make HDRP games 
+  - Hugo for web sites (gohugo.io)
+  
+will add other later, if I rember it ;-)
 
 ![me](https://github.com/gj52/gj52/blob/master/cap.jpg "cheers")
 
@@ -35,7 +39,7 @@ will add other later, if i rember it ;-)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
